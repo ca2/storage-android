@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths></SOLibPaths>
+  <AndroidLibPaths>C:\Users\camilo\__archive\archive\storage-android\android_app\android_app.aar;C:\basis\seed-android\platform-android\app\app</AndroidLibPaths>
+  <OObjPaths></OObjPaths>
+  <Configuration />
+  <Platform />
+  <AndroidArchitecture>x86</AndroidArchitecture>
+</project>
