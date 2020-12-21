@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <project>
-  <SOLibPaths>C:\Users\camilo\__archive\archive\storage-android\third\library\x86\Debug\libauracairo.so;C:\Microsoft\AndroidNDK64\android-ndk-r16b\prebuilt\android-x86\gdbserver\gdbserver;C:\Microsoft\AndroidNDK64\android-ndk-r16b\sources\cxx-stl\llvm-libc++\libs\x86\libc++_shared.so</SOLibPaths>
+  <SOLibPaths>C:\basis\archive\storage-android\third\library\x86\Debug\libauracairo.so;C:\Microsoft\AndroidNDK64\android-ndk-r16b\prebuilt\android-x86\gdbserver\gdbserver;C:\Microsoft\AndroidNDK64\android-ndk-r16b\sources\cxx-stl\llvm-libc++\libs\x86\libc++_shared.so</SOLibPaths>
   <AndroidLibPaths />
-  <OObjPaths>C:\basis\time-android\intermediate\x86\Debug\cairo\src</OObjPaths>
+  <OObjPaths>C:\basis\archive\time-android\intermediate\x86\Debug\cairo\src</OObjPaths>
   <Configuration>Debug</Configuration>
   <Platform>x86</Platform>
   <AndroidArchitecture>x86</AndroidArchitecture>
